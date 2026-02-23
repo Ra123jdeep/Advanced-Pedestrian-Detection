@@ -17,3 +17,9 @@ model/
 # cache
 __pycache__/
 .ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# YOLO outputs / predictions
+runs/
