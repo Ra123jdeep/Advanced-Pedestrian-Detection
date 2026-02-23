@@ -1,0 +1,19 @@
+# env
+.venv/
+venv/
+
+# DATASET (must ignore)
+CrowdHuman_train01/
+Images/
+
+# outputs
+runs/
+
+# models
+model/
+*.pt
+*.pth
+
+# cache
+__pycache__/
+.ipynb_checkpoints/

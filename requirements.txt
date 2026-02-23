@@ -1,0 +1,11 @@
+torch                  # PyTorch, needed for YOLOv8
+torchvision            # Additional tools for working with images in PyTorch
+opencv-python          # OpenCV for computer vision and real-time image processing
+matplotlib             # For plotting and visualization
+pandas                 # Data manipulation and analysis
+tqdm                   # Progress bar for loops
+ultralytics            # YOLOv8 from the Ultralytics library
+scikit-learn           # Machine learning tools (used for evaluation)
+seaborn                # Statistical data visualization
+streamlit              # For building the UI
+deep_sort_realtime     # For tracking objects in real-time (DeepSORT)
